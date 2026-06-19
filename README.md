@@ -11,10 +11,10 @@ I am a passionate software engineer specializing in building scalable distribute
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | ![Java](https://shields.io) ![Spring Boot](https://shields.io) ![REST API](https://shields.io) |
-| **Distributed Systems** | ![Microservices](https://shields.io) ![Apache Kafka](https://shields.io) |
-| **Frontend** | ![React](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) |
-| **Tools & Database** | ![Git](https://shields.io) ![PostgreSQL](https://shields.io) ![Docker](https://shields.io) |
+| **Backend** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
+| **Distributed Systems** | <img src="https://shields.io" /> <img src="https://shields.io" /> |
+| **Frontend** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
+| **Tools & Database** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
 
 ---
 
@@ -26,11 +26,11 @@ I am a passionate software engineer specializing in building scalable distribute
 ---
 
 ### 🔗 Connect with Me
-* 💼 **LinkedIn**: [www.linkedin.com/in/avinay-singh-developer]
-* 📧 **Email**: [heyavinay@gmail.com]
+* 💼 **LinkedIn**: [linkedin.com/in/avinay-singh-developer](https://linkedin.com)
+* 📧 **Email**: [heyavinay@gmail.com](mailto:heyavinay@gmail.com)
 
 ---
+
 📊 **My GitHub Stats**
-<p align="left">
+
 <img src="https://vercel.app" alt="Avinay's GitHub Stats" />
-</p>
