@@ -9,28 +9,20 @@ I am a passionate software engineer specializing in building scalable distribute
 
 ### 🛠️ Technical Skills
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| **Distributed Systems** | <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| **Frontend** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| **Tools & Database** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
+*   ☕ **Backend:** Java 17/21 • Spring Boot • Spring Data JPA • Spring Security (JWT) • RESTful APIs
+*   🔀 **Distributed Systems:** Microservices Architecture • Apache Kafka • API Gateway • Service Discovery
+*   ⚛️ **Frontend:** React.js • JavaScript (ES6+) • HTML5 • CSS3 • Axios
+*   🧰 **Tools & Databases:** PostgreSQL • MySQL • Docker • Git & GitHub • Postman
 
 ---
 
 ### 🎯 Roadmap & Focus Areas
-* 🏗️ Building an End-to-End E-Commerce Microservices Engine.
-* 🤖 Integrating Generative AI features using **Spring AI**.
-* ⚡ Implementing high-throughput asynchronous communication with **Kafka**.
+*   🏗️ **Enterprise Architecture:** Building an End-to-End E-Commerce Microservices Engine.
+*   🤖 **AI Integration:** Leveraging Generative AI features using the modern **Spring AI** framework.
+*   ⚡ **Event Streaming:** Implementing high-throughput asynchronous messaging communication with **Kafka**.
 
 ---
 
 ### 🔗 Connect with Me
-* 💼 **LinkedIn**: [linkedin.com/in/avinay-singh-developer](https://linkedin.com)
-* 📧 **Email**: [heyavinay@gmail.com](mailto:heyavinay@gmail.com)
-
----
-
-📊 **My GitHub Stats**
-
-<img src="https://vercel.app" alt="Avinay's GitHub Stats" />
+*   💼 **LinkedIn:** [linkedin.com/in/avinay-singh-developer](https://linkedin.com)
+*   📧 **Email:** [heyavinay@gmail.com](mailto:heyavinay@gmail.com)
